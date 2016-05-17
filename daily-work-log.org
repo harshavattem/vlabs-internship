@@ -8,6 +8,8 @@
    I was able to create repositories and also operate with remote repositories.
 
 ** [2016-05-17 Tue]
+   I learnt about data modelling, and its importance to the building of any application.
+   I also learnt about relations, cardinality and entities, and used them to create a data model based upon the one shown in class.
    
 
 ** Weekly  Summary
