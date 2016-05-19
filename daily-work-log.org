@@ -9,6 +9,9 @@
 
 ** [2016-05-18 Wed]
    I was given an introduction to Object Oriented Programming in Python. We were give a template on which we were to implement the data models we had built on Tuesday. I spent a lot of the day familiarising myself with the idea of Object Oriented Programming.
+
+** [2016-05-19 Thu]
+   We continued building methods and test cases using the given template from yesterday. A few doubts of yesterday were cleared, and we came close to completion. I am also getting better at handling Python and Object Oriented programming in general.
    
 
 ** Weekly  Summary
