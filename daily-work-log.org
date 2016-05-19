@@ -6,6 +6,9 @@
 
 ** [2016-05-17 Tue]
    I learnt about data modelling, and its importance to the building of any application. I also learnt about relations, cardinality and entities, and used them to create a data model based upon the one shown in class.
+
+** [2016-05-18 Wed]
+   I was given an introduction to Object Oriented Programming in Python. We were give a template on which we were to implement the data models we had built on Tuesday. I spent a lot of the day familiarising myself with the idea of Object Oriented Programming.
    
 
 ** Weekly  Summary
