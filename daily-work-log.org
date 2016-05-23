@@ -11,11 +11,14 @@
    I was given an introduction to Object Oriented Programming in Python. We were give a template on which we were to implement the data models we had built on Tuesday. I spent a lot of the day familiarising myself with the idea of Object Oriented Programming.
 
 ** [2016-05-19 Thu]
-   We continued building methods and test cases using the given template from yesterday. A few doubts of yesterday were cleared, and we came close to completion. I am also getting better at handling Python and Object Oriented programming in general.
+   We continued building methods and test cases using the given template from yesterday. A few doubts of yesterday were set right, and we came close to completion. I am also getting better at handling Python and Object Oriented programming in general.
+
+** [2016-05-20 Fri]
+   I finally got the confidence to build the program, not just learn. I started writing methods and understanding the format of test cases. 
    
 
 ** Weekly  Summary
-   + What are the insights gained?
-   + What is my footprint in the realization of the project?
+   I learnt a lot this week, from the basics of git and emacs to OOP in Python, and I am now able to write my own program in Python, albeit with errors.
+   
 * Month of June
 * Month of July
