@@ -20,5 +20,8 @@
 ** Weekly  Summary
    I learnt a lot this week, from the basics of git and emacs to OOP in Python, and I am now able to write my own program in Python, albeit with errors.
    
+** [2016-05-23 Mon]
+   I have started reading up on AngularJS and how to use it to write a basic interactive application for the client side interface. I can make basic Input/Output web pages using JavaScript now.
+   
 * Month of June
 * Month of July
