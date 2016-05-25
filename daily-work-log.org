@@ -23,5 +23,8 @@
 ** [2016-05-23 Mon]
    I have started reading up on AngularJS and how to use it to write a basic interactive application for the client side interface. I can make basic Input/Output web pages using JavaScript now.
    
+** [2016-05-24 Tue]
+   I have been introduced to MySQLAlchemy and how to use databases, and I have been preparing the ORM from the template provided. The previous Python program is being used as a reference.
+   
 * Month of June
 * Month of July
