@@ -21,10 +21,13 @@
    I learnt a lot this week, from the basics of git and emacs to OOP in Python, and I am now able to write my own program in Python, albeit with errors.
    
 ** [2016-05-23 Mon]
-   I have started reading up on AngularJS and how to use it to write a basic interactive application for the client side interface. I can make basic Input/Output web pages using JavaScript now.
+   I have started reading up on AngularJS and how to use it to write a basic interactive application for the client side interface.
    
 ** [2016-05-24 Tue]
    I have been introduced to MySQLAlchemy and how to use databases, and I have been preparing the ORM from the template provided. The previous Python program is being used as a reference.
+   
+** [2016-05-25 Wed]
+   I learnt a bit about the RestAPI and the Get, Push, Post commands using the HTTP Requester plugin. I also saw the working of the final program.
    
 * Month of June
 * Month of July
