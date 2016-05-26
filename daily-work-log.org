@@ -28,6 +28,8 @@
    
 ** [2016-05-25 Wed]
    I learnt a bit about the RestAPI and the Get, Push, Post commands using the HTTP Requester plugin. I also saw the working of the final program.
+** [2016-05-26 Thu]
+   The day was spent in editing the previous template. We are getting closer to building the final ORM model.
    
 * Month of June
 * Month of July
