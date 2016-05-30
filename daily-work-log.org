@@ -38,5 +38,8 @@
 ** Weekly Summary
    We have been building the RestAPI and making test cases in it. The definition and making of a web application is becoming clear to me, as is the sturucture of an application. 
    
+** [2016-05-30 Mon]
+   Most of the day was spent trying to fix an issue while running the API. I also read up on JavaScript a little bit, anticipating the upcoming project. 
+   
 * Month of June
 * Month of July
