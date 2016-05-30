@@ -28,8 +28,15 @@
    
 ** [2016-05-25 Wed]
    I learnt a bit about the RestAPI and the Get, Push, Post commands using the HTTP Requester plugin. I also saw the working of the final program.
+   
 ** [2016-05-26 Thu]
    The day was spent in editing the previous template. We are getting closer to building the final ORM model.
+   
+** [2016-05-27 Fri]
+   We are to start with building the client side of the web application soon. I learnt a little bit about how HTML, CSS, JavaScript are used to create interactive, dynamic web pages.
+   
+** Weekly Summary
+   We have been building the RestAPI and making test cases in it. The definition and making of a web application is becoming clear to me, as is the sturucture of an application. 
    
 * Month of June
 * Month of July
