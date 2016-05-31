@@ -41,5 +41,8 @@
 ** [2016-05-30 Mon]
    Most of the day was spent trying to fix an issue while running the API. I also read up on JavaScript a little bit, anticipating the upcoming project. 
    
+** [2016-05-31 Tue]
+   In the morning, a few groups displayed their work, but most of it was incomplete. We ended fixing an issue that had been giving us problems, and started working on making the front end.
+   
 * Month of June
 * Month of July
