@@ -44,5 +44,9 @@
 ** [2016-05-31 Tue]
    In the morning, a few groups displayed their work, but most of it was incomplete. We ended fixing an issue that had been giving us problems, and started working on making the front end.
    
+** [2016-06-01 Wed]
+   We had a little bit of success with the front end, but a few errors kept popping up. The interface is working, but we are facing a few issues with some functions. I have also started the documentation.
+   
+   
 * Month of June
 * Month of July
