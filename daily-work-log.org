@@ -47,6 +47,9 @@
 ** [2016-06-01 Wed]
    We had a little bit of success with the front end, but a few errors kept popping up. The interface is working, but we are facing a few issues with some functions. I have also started the documentation.
    
+** [2016-06-02 Thu]
+   We have started the deployment. I am facing some issues, probably because my name is not actually in this group. However, I have part of it up. I shall also have finished the documentation by the end of the day.
+   
    
 * Month of June
 * Month of July
