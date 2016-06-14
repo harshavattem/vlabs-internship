@@ -75,5 +75,12 @@
    
 ** Weekly Summary
    We learnt some theory about Discrete Dynamics, and Iteration. We also have started working with the p5 JS framework, which is making our task much easier.
+   
+** [2016-06-13 Mon] 
+   We finished a traffic light application today. In addition, Prof. Venkatesh talked to us a bit about the applications, and how to formulate input and output in Discrete Dynamis Systems.
+
+** [2016-06-14 Tue]
+   We have made plots of our applications, such that they show they history of the process. 
+   
  
 * Month of July
