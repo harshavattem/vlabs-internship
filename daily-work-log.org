@@ -80,30 +80,46 @@
    We finished a traffic light application today. In addition, Prof. Venkatesh talked to us a bit about the applications, and how to formulate input and output in Discrete Dynamis Systems.
 
 ** [2016-06-14 Tue]
-   We have made plots of our applications, such that they show they history of the process. Also trying out CSS, to make the page look better.
+   We have made plots of our applications, such that they show they history of the process. We are also experimenting with CSS, to make the page look better.
    
 ** [2016-06-15 Wed]
-   Tried to fix a problem in the plot of the traffic light application: the plot was timed and coloured wrong. 
+   Tried to fix a problem in the plot of the traffic light application: the plot was timed and coloured wrong. We have also started to cunstruct the application into a consistent paneled interface, as Professor Venkatesh has advised.
    
 ** [2016-06-16 Thu] 
+   Having gotten the applications right, we have been flattening small problems with bounday cases and some details we have overlooked. Additionally, we are using various p5 and CSS features to enhance the appearance of the applications.
    
 ** [2016-06-17 Fri] 
+   We met Professor Venkatesh today, and presented our applications to him. We initiated the idea of having a framework to build discrete dynamic systems with minimal input. As a side interest, we have also experimented with a few interesting JS libraries, like plotly.js.
+   
+** Weekly Summary
+   We are now able to effectively use p5 and make applications both functional and attractive. We have also improved our understanding of infinite iteration.
    
 ** [2016-06-20 Mon] 
+   Now, we have taken on another project: to try and derive a framework to convert Flash animations to JavaScript, to convert all the Virtual Labs on the website. This shall be our focus now.
    
 ** [2016-06-21 Tue] 
+   I have been searching online for tools which could possibly simplify the function of the conversion. I have found a few online tools which claim to do the entire conversion, but I am unable to get them to work.
    
-** [2016-06-22 Wed] 
+** [2016-06-22 Wed]
+   We have tried out a software called Google Web Designer, as it might have helped us generate the code we need and could be the simple method we were looking for. It generates codes for graphic animations that can be easily made. 
    
 ** [2016-06-23 Thu] 
+   Google Web Designer, being a Beta version, is not perfect. In addition, itdoes not have a lot of the features we need. In addition, we are considering other methods, and we tried referring to a fellow teammate's project to get some ideas.
    
 ** [2016-06-24 Fri] 
+   In today's meeting, our mission underwent a slight change. We are now to convert a single experiment to JS, trying a few different methods, documenting the process. This might help develop the automation we were working on earlier.
+   
+** Weekly Summary
+   We spent time searching online for tools, and then libraries and other methods to help us in our task. Because of the project having been changed, we are not close to completion.
    
 ** [2016-06-27 Mon] 
+   We are analyzing a project which has been converted to JS without using any tools or frameworks. Understanding this will help us find out parts we can simplify or make more effective by using other methods.
    
 ** [2016-06-28 Tue] 
+   We are unable to deconstruct the elements of the existing Flash projectss in our laptops, so we are yet to find a way to do so. We need these elements if we want to build an exact replica of the lab.
    
 ** [2016-06-29 Wed] 
+   We tried looking for frameworks which would effectively animate labs the same way as Flash. Hovewer, most animation libraries involve overly creative special effects which are not what we are looking for. Some parts of the existing code might be reusable, and we are considering building on that. 
    
 ** [2016-06-30 Thu]
    
